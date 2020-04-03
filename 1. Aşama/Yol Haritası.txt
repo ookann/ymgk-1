@@ -1,0 +1,2 @@
+Veri Setimi 2019 yılının saatlik olarak havadaki gaz miktarlarını seçerek topladım. 
+Bu veri setinden bilgi keşfi algoritmaları kullanarak faydalı bilgi çıkartacağım.
